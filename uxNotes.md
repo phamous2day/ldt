@@ -51,6 +51,7 @@ What are you trying to learn about your users?
 To provide structure/organization to product ...  like make a site map. e.g.
 
 Deep
+
 =- ===
 
 =- ===
@@ -62,9 +63,9 @@ Deep
 VS
 
 Flat
----------------
----------------
----------------
+- --- -----------
+- --- -----------
+-- --- ----------
 
 Focus on user, make sure they know where they are and where they can go
 
