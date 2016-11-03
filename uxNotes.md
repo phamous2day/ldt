@@ -46,3 +46,43 @@ What are you trying to learn about your users?
 4. consider the software (mac, windows, linux)
 5. be responsive
 6. think about more than one screen at a time
+
+##Information Architecture
+To provide structure/organization to product ...  like make a site map. e.g.
+
+Deep:    vs      Flat
+== ==            ===================
+== ==            ===================
+== ==  
+
+Focus on user, make sure they know where they are and where they can go
+
+##Types of Information Architecture
+
+* Categories
+* Tasks
+* Search
+* Time
+* People
+
+##Wireframes
+aka "blueprints"; a technical document that tells people how to build it ... NOT a quick sketch or mockup
+
+
+##Visual Weight
+* don't distract users from their goals
+* controls where eyes go next
+  * contrast * focus * depth & size
+  
+##Color
+Wireframes are BW to focus on functionality; colors can have emotional meaning
+
+##Repeition and pattern breaking
+Whenever a pattern is broken, it attracts focus
+
+##Line Tension
+Our eyes follow/recognize patterns like a line of ducks or if the line of ducks are organized/outlined into shapes
+
+##Alignment and Proximity
+Closeness or distance between objects creates a feeling of these objects being related
+
