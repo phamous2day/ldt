@@ -98,3 +98,15 @@ Our eyes follow/recognize patterns like a line of ducks or if the line of ducks 
 ##Alignment and Proximity
 Closeness or distance between objects creates a feeling of these objects being related
 
+---------------------
+###NY Code & Design UX Workshop notes
+####Process Map
+*Process can be quantified
+
+* difference between process and insight
+
+Empathy map
+![empathy map pic](https://boagworld.com/wp-content/uploads/manual/Empathy%20Map%20Revised.jpg?5115a1)
+
+####User Story & Data
+![user story pic](https://s-media-cache-ak0.pinimg.com/originals/10/7d/e0/107de0177cfc793b590f528ba7526dfd.jpg)
