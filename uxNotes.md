@@ -143,10 +143,12 @@ e.g. posting pics and getting LIKES+ ..............or how your tomagachi dies fr
 ##Persuasion and 8 Universal Ingrediants
 
 Before interaction with users:
+
 1. Credibility
 2. Know your audience
 
 During interaction with users:
+
 3. Open & Disarm
 4. Create Rapport
 5. Isolate
@@ -168,17 +170,17 @@ Learning is slow. Habits are fast: onboarding from existing familiarity (like ho
 
 ##What is Data?
 
-*It's Objective — it never lies
-*Made of people
-*More data is better
+* It's Objective — it never lies
+* Made of people
+* More data is better
 
 How to collect Objective data:
 
-*analytics
-*clickTale
-*A/B Testing
-*search logs
-*eye-tracking
+* analytics
+* clickTale
+* A/B Testing
+* search logs
+* eye-tracking
 
 ##Statistics
 1&2: Sessions, users | Unique visits (high quality, high quantity)
@@ -194,6 +196,6 @@ How to collect Objective data:
 
 ##Designing with Data: A/B Tests
 
-*Run both tests @ same time
+* Run both tests @ same time
 
-*Best if only one detail is changed, not a bunch of details changed
+* Best if only one detail is changed, not a bunch of details changed
