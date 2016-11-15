@@ -110,3 +110,90 @@ Empathy map
 
 ####User Story & Data
 ![user story pic](https://s-media-cache-ak0.pinimg.com/originals/10/7d/e0/107de0177cfc793b590f528ba7526dfd.jpg)
+
+
+##Forms
+can be a source of confusion, mistakes, and loss of engagement (I experienced this for homeadvisor.com)
+
+1. Keep forms short as possible
+2. Use many pages as you need but try to make it feel simple as possible
+3. Different input types for different types of driven data collection
+4. Preventing and handling mistakes: e.g. form validation for phone #'s
+
+##Copywriting: CTA (calls to action), Instructions
+
+A. Calls to Action
+B. Instruments
+C. Labels
+D. Larger, persuasive text
+
+##Primary & Secondary Buttons
+Primary: register, buy, save, send, share, delete
+
+Secondary: canceling, skip, reset, decline
+
+##Conditioning — make a loop of feelings/behavior that never ends
+
+using power design becaomes endlessly rewarding
+
+Motivation -> Action -> Feedback -> Motivation
+
+e.g. posting pics and getting LIKES+ ..............or how your tomagachi dies from neglect
+
+##Persuasion and 8 Universal Ingrediants
+
+Before interaction with users:
+1. Credibility
+2. Know your audience
+
+During interaction with users:
+3. Open & Disarm
+4. Create Rapport
+5. Isolate
+6. Convince
+7. Close the deal
+
+After interaction
+8. Summarize with bias
+
+
+##How experiences change experiences
+If you want millions of happy users, design for the distracted idiots not the obsessed geniuses
+
+Paradox of choice: the more options seen, the less likely to choose any of them
+
+Recognition vs Memory: use familiar icons vs new foreign itesm that take time to learn
+
+Learning is slow. Habits are fast: onboarding from existing familiarity (like how almost all social media are built with similar interfaces).
+
+##What is Data?
+
+*It's Objective — it never lies
+*Made of people
+*More data is better
+
+How to collect Objective data:
+
+*analytics
+*clickTale
+*A/B Testing
+*search logs
+*eye-tracking
+
+##Statistics
+1&2: Sessions, users | Unique visits (high quality, high quantity)
+3. page views
+4. pages per visit
+5. time per visit
+6. bounce rate
+7. new vs returning visits
+
+##Designing with Data: Graph Shapes
+
+2 graph styles that human behavior create often: traffic & structured behavior
+
+##Designing with Data: A/B Tests
+
+*Run both tests @ same time
+
+*Best if only one detail is changed, not a bunch of details changed
