@@ -25,21 +25,21 @@ What are you trying to learn about your users?
 2. Leading question
 3. Closet/direct question
 
-*interviews
-*observations
-*focus group
-*surveys
-*card-sorting
+* interviews
+* observations
+* focus group
+* surveys
+* card-sorting
 
 ## User Profiles
 (don't mistake this with demographics)
 
-*goals
-*expectations
-*motivation
-*behavior
+* goals
+* expectations
+* motivation
+* behavior
 
-##Designing for devices
+## Designing for devices
 1. how does it like to be interacted with?
 2. start small — focus on content/core functionality
 3. devices' special powers?
@@ -71,20 +71,20 @@ Focus on user, make sure they know where they are and where they can go
 
 ##Types of Information Architecture
 
-*Categories
-*Tasks
-*Search
-*Time
-*People
+* Categories
+* Tasks
+* Search
+* Time
+* People
 
-##Wireframes
+## Wireframes
 aka "blueprints"; a technical document that tells people how to build it ... NOT a quick sketch or mockup
 
 
 ## Visual Weight
-*don't distract users from their goals
-*controls where eyes go next
-  *contrast *focus *depth & size
+* don't distract users from their goals
+* controls where eyes go next
+  * contrast * focus * depth & size
   
 ## Color
 Wireframes are BW to focus on functionality; colors can have emotional meaning
@@ -101,9 +101,9 @@ Closeness or distance between objects creates a feeling of these objects being r
 ---------------------
 ### NY Code & Design UX Workshop notes
 #### Process Map
-*Process can be quantified
+* Process can be quantified
 
-*difference between process and insight
+* difference between process and insight
 
 Empathy map
 ![empathy map pic](https://boagworld.com/wp-content/uploads/manual/Empathy%20Map%20Revised.jpg?5115a1)
@@ -170,20 +170,21 @@ Learning is slow. Habits are fast: onboarding from existing familiarity (like ho
 
 ## What is Data?
 
-*It's Objective — it never lies
-*Made of people
-*More data is better
+* It's Objective — it never lies
+* Made of people
+* More data is better
 
 How to collect Objective data:
 
-*analytics
-*clickTale
-*A/B Testing
-*search logs
-*eye-tracking
+* analytics
+* clickTale
+* A/B Testing
+* search logs
+* eye-tracking
 
 ## Statistics
-1&2: Sessions, users | Unique visits (high quality, high quantity)
+
+1. 2. Sessions, users | Unique visits (high quality, high quantity)
 3. page views
 4. pages per visit
 5. time per visit
@@ -196,6 +197,6 @@ How to collect Objective data:
 
 ## Designing with Data: A/B Tests
 
-*Run both tests @ same time
+* Run both tests @ same time
 
-*Best if only one detail is changed, not a bunch of details changed
+* Best if only one detail is changed, not a bunch of details changed
