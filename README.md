@@ -7,7 +7,7 @@
 - [ ] Build separate portfolio to showcase LDT skills
 
 #### Technologies
-- [x] Build a sample learning game using [PhaserJS](https://phaser.io/). Thought about Unity, but that's made with C#. *EDIT:* made Onepunchman game
+- [x] Build a sample learning game using [PhaserJS](https://phaser.io/). Thought about Unity, but that's made with C#. *EDIT:* made [Onepunchman game](https://phamous2day.github.io/ldt/)
 - [ ] Learn industry tools: Adobe Captivate, Articulate Storyline, 
 - [x] Be familiar with video editing (totally got this: Avid, Final Cut Pro, OpenShot, Quicktime screen recorder, VLC)
 - [ ] Best way to showcase LMS/Schoology work?
